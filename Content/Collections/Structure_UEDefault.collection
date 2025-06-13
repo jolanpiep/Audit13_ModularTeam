@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:46D2C48C-41FF-8BE0-EE56-CDB76D900AAD
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/AUDIT_13/Structure/SM_ChamferCube.SM_ChamferCube
+/Game/AUDIT_13/Structure/SM_Cube.SM_Cube
+/Game/AUDIT_13/Structure/SM_Cylinder.SM_Cylinder
+/Game/AUDIT_13/Structure/SM_QuarterCylinder.SM_QuarterCylinder
+/Game/AUDIT_13/Structure/SM_Ramp.SM_Ramp
+/Game/AUDIT_13/Structure/T_GridChecker_A.T_GridChecker_A
