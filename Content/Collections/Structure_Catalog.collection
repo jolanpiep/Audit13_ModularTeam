@@ -3,3 +3,8 @@ Type:Static
 Guid:DC1FAEB6-4126-E0B5-F05C-D7BF036C9DE0
 ParentGuid:00000000-0000-0000-0000-000000000000
 
+/Game/AUDIT_13/Structure/SM_Catalog_Floor_800_A.SM_Catalog_Floor_800_A
+/Game/AUDIT_13/Structure/SM_Catalog_FloorSlope_800_A.SM_Catalog_FloorSlope_800_A
+/Game/AUDIT_13/Structure/SM_Catalog_FloorStairs_800_A.SM_Catalog_FloorStairs_800_A
+/Game/AUDIT_13/Structure/SM_Catalog_FloorStairs_800_B.SM_Catalog_FloorStairs_800_B
+/Game/AUDIT_13/Structure/SM_Catalog_FloorStairs_800_C.SM_Catalog_FloorStairs_800_C
