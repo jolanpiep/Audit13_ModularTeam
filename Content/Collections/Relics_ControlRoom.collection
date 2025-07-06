@@ -3,12 +3,3 @@ Type:Static
 Guid:7DA9BAD8-4C59-B4A2-D0F7-39885BF6B2FA
 ParentGuid:00000000-0000-0000-0000-000000000000
 
-/Game/AUDIT_13/Structure/SM_ControlRoom_Ceiling_A.SM_ControlRoom_Ceiling_A
-/Game/AUDIT_13/Structure/SM_ControlRoom_Floor_A.SM_ControlRoom_Floor_A
-/Game/AUDIT_13/Structure/SM_ControlRoom_ServerWall_A.SM_ControlRoom_ServerWall_A
-/Game/AUDIT_13/Structure/SM_ControlRoom_ServerWall_B.SM_ControlRoom_ServerWall_B
-/Game/AUDIT_13/Structure/SM_ControlRoom_ServerWall_C.SM_ControlRoom_ServerWall_C
-/Game/AUDIT_13/Structure/SM_ControlRoom_WallLong_A.SM_ControlRoom_WallLong_A
-/Game/AUDIT_13/Structure/SM_ControlRoom_WallLong_B.SM_ControlRoom_WallLong_B
-/Game/AUDIT_13/Structure/SM_ControlRoom_WallShort_A.SM_ControlRoom_WallShort_A
-/Game/AUDIT_13/Structure/SM_ControlRoom_WallShort_B.SM_ControlRoom_WallShort_B
