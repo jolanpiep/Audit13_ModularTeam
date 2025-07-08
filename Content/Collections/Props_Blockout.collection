@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:9C6903E5-433D-7F73-1C27-F0A7FA04BFEE
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/AUDIT_13/Props/SM_Blockout_Button_A.SM_Blockout_Button_A
+/Game/AUDIT_13/Props/SM_Blockout_Drawer_A.SM_Blockout_Drawer_A
+/Game/AUDIT_13/Props/SM_Blockout_Elevator_A.SM_Blockout_Elevator_A
+/Game/AUDIT_13/Props/SM_Blockout_Elevator_B_Body.SM_Blockout_Elevator_B_Body
+/Game/AUDIT_13/Props/SM_Blockout_Shelf_A_Body.SM_Blockout_Shelf_A_Body
+/Game/AUDIT_13/Props/SM_Blockout_Shelf_A_RotatingHandle.SM_Blockout_Shelf_A_RotatingHandle

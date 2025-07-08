@@ -1,0 +1,9 @@
+FileVersion:2
+Type:Static
+Guid:9B784A83-44A6-898F-E0C0-E2953F5E3941
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/AUDIT_13/Props/SM_Shelf_A.SM_Shelf_A
+/Game/AUDIT_13/Props/SM_ShelfSliding_A.SM_ShelfSliding_A
+/Game/AUDIT_13/Props/SM_ShelfSliding_B.SM_ShelfSliding_B
+/Game/AUDIT_13/Props/SM_ShelfSliding_C.SM_ShelfSliding_C

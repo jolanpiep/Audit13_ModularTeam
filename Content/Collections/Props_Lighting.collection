@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:1DD45662-4950-F419-6C82-8195C8454FD6
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/AUDIT_13/Props/SM_Light_Ceiling_A.SM_Light_Ceiling_A
+/Game/AUDIT_13/Props/SM_Light_DualTube_A.SM_Light_DualTube_A
+/Game/AUDIT_13/Props/SM_Light_FloodBlastproof_A.SM_Light_FloodBlastproof_A
+/Game/AUDIT_13/Props/SM_Light_FluorescentLong_A.SM_Light_FluorescentLong_A
+/Game/AUDIT_13/Props/SM_Light_LowBay_A.SM_Light_LowBay_A
+/Game/AUDIT_13/Props/SM_Light_SingleBulb_A.SM_Light_SingleBulb_A

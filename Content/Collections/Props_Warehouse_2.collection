@@ -1,0 +1,17 @@
+FileVersion:2
+Type:Static
+Guid:9F3B26FF-4252-1C6E-2B9C-24B642E676A3
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/AUDIT_13/Props/SM_CrateSteel_A.SM_CrateSteel_A
+/Game/AUDIT_13/Props/SM_CrateSteel_B.SM_CrateSteel_B
+/Game/AUDIT_13/Props/SM_CrateWood_A.SM_CrateWood_A
+/Game/AUDIT_13/Props/SM_CrateWood_B.SM_CrateWood_B
+/Game/AUDIT_13/Props/SM_CrateWood_C.SM_CrateWood_C
+/Game/AUDIT_13/Props/SM_CrateWood_D.SM_CrateWood_D
+/Game/AUDIT_13/Props/SM_CrateWood_E.SM_CrateWood_E
+/Game/AUDIT_13/Props/SM_Dolly_A.SM_Dolly_A
+/Game/AUDIT_13/Props/SM_Dolly_B.SM_Dolly_B
+/Game/AUDIT_13/Props/SM_Dolly_C.SM_Dolly_C
+/Game/AUDIT_13/Props/SM_ForkLift_A.SM_ForkLift_A
+/Game/AUDIT_13/Props/SM_PalletJack_A.SM_PalletJack_A
